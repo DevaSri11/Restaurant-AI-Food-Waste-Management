@@ -17,11 +17,11 @@ Food waste tracking and analysis is a critical concept in the restaurant industr
 
 ## Solution Approach
 The system solves the problem of food waste tracking and analysis by using a combination of AI-powered insights and data visualization. The system automates data collection and provides actionable recommendations to reduce food waste. The system uses the following technologies:
-- React for building the web application
-- React Router for client-side routing
-- Recharts for data visualization
-- Google GenAI for AI-powered insights
-- QR code-based system for easy tracking and monitoring of food waste
+- **React** for building the web application
+- **React Router** for client-side routing
+- Recharts for **data visualization**
+- **Google GenAI** for AI-powered insights
+- **QR code-based system** for easy tracking and monitoring of food waste and feedback analys
 
 ## Technical Architecture
 The system architecture consists of the following components:
